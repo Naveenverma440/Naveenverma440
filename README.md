@@ -42,12 +42,12 @@
     <a href="https://github.com/Naveenverma440/github-readme-stats"><img alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naveenverma440&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
      
-  <p align="center">
+<!--   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenverma440&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
   
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/> -->
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 <br/>
 <br/>
