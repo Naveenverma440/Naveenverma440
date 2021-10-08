@@ -57,11 +57,16 @@
 <br/>
 
 ## Connect with me:
-<div display="flex" justify-content="center" align-items="center">
-<!--  <a href = "https://somesh-yadav-portfolio.herokuapp.com/" target="blank"><img width="44px" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-1603075-1359338.png"> </a> -->
-<a href = "https://www.linkedin.com/in/naveen-kumar-16ba9518b/"><img width="55px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="blank"></a>
-<p>Call Me: +91-8947088103</p>
- <p>Email: Naveenverma440@gmail.com</p>
+<span align="left">
+  <a href="https://www.linkedin.com/in/naveen-kumar-16ba9518b">
+    <img src="https://img.shields.io/badge/linkedin-546e7a?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Naveenverma440@gmail.com">
+    <img src="https://img.shields.io/badge/mail-546e7a?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+    <p>Call Me: +91-8947088103</p>
+</span>
+
 
 </div>
 
