@@ -25,13 +25,11 @@
 
 ## Connect with me:
 <span align="left">
-  <a href="https://www.linkedin.com/in/naveen-kumar-16ba9518b">
-    <img src="https://img.shields.io/badge/linkedin-546e7a?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/naveen-kumar-16ba9518b/" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="naveenverma440" /></a>
+  <a href="mailto:Naveenverma440@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="mailto:Naveenverma440@gmail.com">
-    <img src="https://img.shields.io/badge/mail-546e7a?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-    <p>Call Me: +91-8947088103</p>
+<!--  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white -->
 </span>
 
 
