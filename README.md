@@ -20,7 +20,8 @@
 
 🥅 *2021 Goals :* Learning new things and contribute more  
 
-
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliowebsite-naveenverma440-gmailcom.vercel.app/)
 
 ## 🚀 Languages and Tools:
 <p align="left">
