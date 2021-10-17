@@ -23,6 +23,27 @@
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliowebsite-naveenverma440-gmailcom.vercel.app/)
 
+## Connect with me:
+<span align="left">
+  <a href="https://www.linkedin.com/in/naveen-kumar-16ba9518b">
+    <img src="https://img.shields.io/badge/linkedin-546e7a?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Naveenverma440@gmail.com">
+    <img src="https://img.shields.io/badge/mail-546e7a?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
+    <p>Call Me: +91-8947088103</p>
+</span>
+
+
+</div>
+
+## ❤ Views and Followers
+<a href="https://github.com/Naveenverma440/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Naveenverma440">
+</a>
+<a href="https://github.com/Naveenverma440?tab=followers"><img src="https://img.shields.io/github/followers/Naveenverma440?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
 ## 🚀 Languages and Tools:
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
@@ -57,22 +78,3 @@
 
 <br/>
 
-## Connect with me:
-<span align="left">
-  <a href="https://www.linkedin.com/in/naveen-kumar-16ba9518b">
-    <img src="https://img.shields.io/badge/linkedin-546e7a?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Naveenverma440@gmail.com">
-    <img src="https://img.shields.io/badge/mail-546e7a?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-    <p>Call Me: +91-8947088103</p>
-</span>
-
-
-</div>
-
-## ❤ Views and Followers
-<a href="https://github.com/Naveenverma440/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Naveenverma440">
-</a>
-<a href="https://github.com/Naveenverma440?tab=followers"><img src="https://img.shields.io/github/followers/Naveenverma440?label=Followers&style=social" alt="GitHub Badge"></a>
