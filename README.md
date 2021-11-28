@@ -72,7 +72,10 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Naveenverma440/github-readme-activity-graph"><img alt="Naveen's Graph" src="https://activity-graph.herokuapp.com/graph?username=Naveenverma440&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align='center'>
+<img src="https://media.giphy.com/media/Yl5VGKskuiKrv6R2pN/giphy.gif" width="380" />
+<h3 align='center'>Keep calm and do meditation!</h3>
+</p>
 
 <br/>
 
