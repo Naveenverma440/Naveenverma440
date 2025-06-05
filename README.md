@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Naveen Kumar</h1>
-<h3 align="center">I'm a Full Stack Web Developer with hands-on experience in designing, developing, and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing clean, elegant, and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</h3>
+<h3 align="center">Backend engineer with a proven track record of building scalable and reliable systems. Worked on apps handling over 1 million users, sent 50 million+ notifications, and processed 500K+ API requests per day. Comfortable taking ownership—from writing code to setting up infrastructure. Strong focus on performance, uptime, and real-world impact</h3>
 
 <p align= "center">
 
@@ -14,11 +14,10 @@
 <!-- <p align= "center">
 <img width="50px" src="https://pbs.twimg.com/profile_images/1390132006516822016/ZILrvvTo_400x400.jpg" alt="img"/>
 </p> -->
-🌱 I’m currently learning :  Full Stack Web Development
+🌱 I’m currently learning:  Backend Developer
 
-💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React, Redux and MongoDb
+💬 *Ask me about :* Data Structures and Algorithms, JavaScript, Node and MongoDB, PostgreSQL
 
-🥅 *2021 Goals :* Learning new things and contribute more  
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://naveen-kumar-verma.vercel.app/)
@@ -59,16 +58,17 @@
 </p>
 <br/>
  
-  <p align="center">
+  <!--<p align="center">
     <a href="https://github.com/Naveenverma440/github-readme-stats"><img alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naveenverma440&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
+    
      
-<!--   <p align="center">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenverma440&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
   
-  <br/> -->
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  <br/> 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 <br/>
 <br/>
